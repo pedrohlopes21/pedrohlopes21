@@ -8,4 +8,4 @@ Me chamo Pedro Henrique, sou do Rio de Janeiro, tenho 22 anos e estou na reta fi
 
 ## Redes Sociais
 
-<a target="_blank" href="https://www.linkedin.com/in/pedrohlopes21/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<a href="https://www.linkedin.com/in/pedrohlopes21/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
